@@ -1,0 +1,341 @@
+html{
+    background-color: #666666;
+    width: 1260;
+    height: 940;
+  }
+.container {
+    width: 1260px;
+    height: 880px;
+    background-color:#edf2c5;
+
+    margin-left: auto;
+    margin-right : auto;
+    margin-top: auto ;
+    margin-bottom: auto;
+    padding:0 ,160,0,160;
+  
+}
+.header{
+  display: flex;
+  width: 940px; 
+  height: 98px;
+  
+}
+
+
+.box_Vegetables{
+  box-sizing: border-box;
+  margin-left: 160px;
+  margin-right : 469px;
+  margin-top: 0px;
+  
+  padding:0px;
+  width: 271px;
+  height: 62px;
+}  
+.Vegetables {
+  width: 271px;
+  height: 0px;
+  font-family: Arial;
+  font-size: 44px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.82;
+  letter-spacing: normal;
+  text-align: left;
+  color: #778a50;
+}
+.btn_facebook{
+  
+  margin-top:60px;
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
+.btn_instagram{
+  margin-left: 10px;
+  margin-top: 60px;
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
+.line_login {
+  margin-top: 60px;
+  margin-left: 10px;
+  border-bottom: 0px;
+  border-top: 0px;
+  
+  height: 25px;
+  background-color: #778a50;
+}
+.btn_LOGIN_box {
+  margin-top: 60px;
+  margin-left: 10px;
+  width: 60px;
+  height: 25px;
+  border: solid 1px #778a50;
+  border-radius: 3px;
+
+}
+.LOGIN {
+  
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #778a50;
+  margin: 0px;
+  padding: 5px 7px;
+}
+.btn_JOIN_box {
+  margin-top: 60px;
+  margin-left: 10px;
+  width: 49px;
+  height: 25px;
+  border: solid 1px #778a50;
+  border-radius: 3px;
+
+}
+.JOIN {
+  
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  
+  letter-spacing: normal;
+  text-align: left;
+  color: #778a50;
+  margin: 0px;
+  padding: 5px 7px ;
+}
+.nav_box {
+  display: flex;
+  width: 940px;
+  height: 44px;
+  border-radius: 3px;
+  background-color: #778a50;
+  margin-left: 160px;
+}
+.Home {
+  margin-top: 5px;
+  margin-left: 30px;
+  width: 51px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+.About-Us {
+  margin-top: 5px;
+  margin-left: 60px;
+  width: 80px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+.Vegetable {
+  margin-top: 5px;
+  margin-left: 60px;
+  width: 98px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+.Online {
+  margin-top: 5px;
+  margin-left: 60px;
+  width: 56px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--beige);
+  color: #edf2c5;
+}
+.Contact {
+  margin-top: 5px;
+  margin-left: 60px;
+  width: 69px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+.css_main_pumpkin {
+  margin-top: 20px;
+  margin-left: 160px;
+  width: 940px;
+  height: 448px;
+  object-fit: contain;
+}
+.twobox{
+  display: flex;
+}
+.body_box_vegetables {
+  margin-top: 30px;
+  margin-left: 160px;
+  width: 444px;
+  height: 45px;
+  border-radius: 3px;
+  background-color: #778a50;
+}
+.Vegetable2 {
+  margin-top: 5px;
+  margin-left: 30px;
+  width: 69px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+.body_box_contact {
+  margin-top: 30px;
+  margin-left: 52px;
+  width: 444px;
+  height: 45px;
+  border-radius: 3px;
+  background-color: #778a50;
+}
+.Conect{
+  margin-top: 5px;
+  margin-left: 30px;
+  width: 69px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+.fianlbox{
+  display: flex;
+}
+.css_vegetables_pepper {
+  margin-top: 15px;
+  margin-left: 160px;
+  width: 140px;
+  height: 140px;
+  object-fit: contain;
+}
+.css_vegetables_carrot{
+  margin-top: 15px;
+  margin-left: 12px;
+  width: 140px;
+  height: 140px;
+  object-fit: contain;
+}
+.css_vegetables_corn{
+  margin-top: 15px;
+  margin-left: 12px;
+  width: 140px;
+  height: 140px;
+  object-fit: contain;
+}
+.body_box_contact_text {
+  margin-top: 15px;
+  margin-left: 52px;
+  width: 444px;
+  height: 140px;
+  background-color: #f7fbda;
+}
+.word1{
+  width: 414px;
+  height: 44px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+  padding-left: 15px;
+}
+.line_contact_text {
+  margin-top: 15px;
+  width: 414px;
+  height: 0px;
+  color:#7d7d7d;
+}
+.word2{
+  width: 197px;
+  height: 35px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+  padding-left: 15px;
+}
+.box_footer {
+  margin-top: 35px;
+  width: 1260px;
+  height: 60px;
+  background-color: #778a50;
+}
+.word3{
+  padding-left:480px;
+  padding-top:15px;
+  width: 301px;
+  height: 14px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 3;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5 ;
+}
